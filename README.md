@@ -6,7 +6,7 @@ Just a decorator for printing the execution time of your python functions.
 
 ## Use
 
-Just download the file and add it to your project, then import the decorator.
+Download the file and add it to your project, then import the decorator.
 
 ```bash
   from timer import timer
