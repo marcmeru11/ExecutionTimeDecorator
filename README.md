@@ -20,3 +20,4 @@ Download the file and add it to your project, then import the decorator.
  ```bash
   Execution time of "my_func" was 0.000016743 seconds
 ```
+        
